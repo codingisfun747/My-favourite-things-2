@@ -1,0 +1,26 @@
+#ART {
+    width: 400px;
+    border-radius: 2000000px;
+}
+
+body {
+    text-align: center;
+
+}
+
+#text {
+    font-size: 20px;
+}
+
+#h1 {
+    font-family: Lato, sans-serif;
+}
+
+#About {
+    font-size: 20px;
+    background-color: darksalmon
+}
+
+#body {
+    background: linear-gradient(#ede2c7 60%, #e6b845 100%);
+}
